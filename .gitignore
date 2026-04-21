@@ -4,11 +4,5 @@
 # macOS
 .DS_Store
 
-# Claude Code project skills
-.claude/
-
 # PDF files (too large for git)
 *.pdf
-
-# Huashu skill template (install separately)
-.agents/
