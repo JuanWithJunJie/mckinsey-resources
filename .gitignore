@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# PDF files (too large for git)
+*.pdf
+
+# Claude Code skills (local user data)
+.claude/
